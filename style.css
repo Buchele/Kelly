@@ -5,13 +5,8 @@
     --fonte2: 'Passion One', cursive;
     --fonte3: 'Sriracha', cursive;}
 
-/*
-font-family: 'Passion One', cursive;
-font-family: 'Sriracha', cursive;
-*/
-
 html, body{
-    min-height: 100vh; font-family:Verdana, Geneva, Tahoma, sans-serif;}
+    font-family:Verdana, Geneva, Tahoma, sans-serif;}
 header{
     background-color: black;
     color: white;
@@ -19,11 +14,11 @@ header{
 header > h1{
     font-variant: small-caps;
     font-size: 35px;
-    
-    padding-top: 50px; font-family: var(--fonte2);}
+    padding-top: 50px; 
+    font-family: var(--fonte2);}
 header > p{
     padding-bottom: 50px;
-font-size: 20px;}
+font-size: 25px;}
 section{
     padding-top: 10vh;
     padding-bottom: 10vh; font-family: var(--fonte3);   }
