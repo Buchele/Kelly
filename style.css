@@ -52,7 +52,7 @@ h2{
 
     section#img1{
         background-image: url(Imagem/background001.jpg);
-        background-position: right center;
+        background-position: center center;
         background-size: cover ;
         background-attachment: fixed;
     }
