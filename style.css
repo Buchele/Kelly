@@ -22,7 +22,8 @@ header > h1{
     
     padding-top: 50px; font-family: var(--fonte2);}
 header > p{
-    padding-bottom: 50px;}
+    padding-bottom: 50px;
+font-size: 20px;}
 section{
     padding-top: 10vh;
     padding-bottom: 10vh; font-family: var(--fonte3);   }
@@ -45,7 +46,7 @@ h2{
     background-color: rgba(0, 0, 0, 0.201);
     text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.514);
     color: white;
-    font-size: 25px;
+    font-size: 35px;
 
 }
 
