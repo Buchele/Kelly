@@ -1,13 +1,13 @@
 *{margin: 0px; padding: 0px; }
-@import url('https://fonts.googleapis.com/css2?family=Passion+One&family=Srisakdi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&family=Sriracha&display=swap');
 
 :root{
     --fonte2: 'Passion One', cursive;
-    --fonte3: 'Srisakdi', cursive;}
+    --fonte3: 'Sriracha', cursive;}
 
 /*
 font-family: 'Passion One', cursive;
-font-family: 'Srisakdi', cursive;
+font-family: 'Sriracha', cursive;
 */
 
 html, body{
