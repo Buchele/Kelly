@@ -19,7 +19,7 @@ header{
 header > h1{
     font-variant: small-caps;
     font-size: 35px;
-    font-size: 4.5vw;
+    
     padding-top: 50px; font-family: var(--fonte2);}
 header > p{
     padding-bottom: 50px;}
